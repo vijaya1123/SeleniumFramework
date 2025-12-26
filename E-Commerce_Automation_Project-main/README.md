@@ -38,4 +38,4 @@ This project is part of my personal learning journey and training experience.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/nouranbadawy/Ecommerce_Automation_Testing.git
+   git clone https://github.com/vijaya1123/SeleniumFramework.git
