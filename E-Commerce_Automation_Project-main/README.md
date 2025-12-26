@@ -4,7 +4,7 @@ This is an end-to-end automation testing project for an E-commerce web applicati
 
 ## 🙋‍♀️ About Me
 
-Hi, I'm **Nouran Badawy** — a passionate software tester, working on enhancing my practical skills in automated testing by applying testing techniques on real-world web applications.  
+Hi, I'm Vijay Sharma — a passionate software tester, working on enhancing my practical skills in automated testing by applying testing techniques on real-world web applications.  
 This project is part of my personal learning journey and training experience.
 
 ## 🚀 Technologies Used
